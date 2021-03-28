@@ -3,6 +3,7 @@ package de.blocki.sbacloudnet.manager;
 import de.dytanic.cloudnet.driver.CloudNetDriver;
 import de.dytanic.cloudnet.driver.service.ServiceInfoSnapshot;
 import de.dytanic.cloudnet.driver.service.ServiceTask;
+import de.dytanic.cloudnet.ext.bridge.bukkit.BukkitCloudNetHelper;
 
 public class CloudNetManager {
 
@@ -15,6 +16,10 @@ public class CloudNetManager {
                 serviceInfoSnapshot.provider().start(); //Starting service
             }
         }
+    }
+
+    public static void changeToIngameShortCut() {
+        BukkitCloudNetHelper.changeToIngame(); //Set the state to "INGAME" and send an ServiceInfoSnapshot update
     }
 
 }

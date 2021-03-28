@@ -11,6 +11,7 @@ public class BWGameStart implements Listener {
     @EventHandler
     public void onGameStart(BedwarsGameStartEvent e){
         CloudNetManager.createCloudServiceByTask(ConfigManager.get("CloudNetTaskName"));
+        CloudNetManager.changeToIngameShortCut();
     }
 
 }
