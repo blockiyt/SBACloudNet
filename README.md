@@ -8,4 +8,4 @@ This addon is to the ScreamingBedWars Plugin made by ScreamingSandals, it's made
 - Fully configurable
 
 ## Credits
-Rhanks to the [ScreamingSandals team](https://github.com/ScreamingSandals) for the great BW Plugin.
+Thanks to the [ScreamingSandals team](https://github.com/ScreamingSandals) for the great BW Plugin.
