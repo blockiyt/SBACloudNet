@@ -1,11 +1,11 @@
 # SBACloudNet for Screaming Sandals Bedwars v0.2.15 & CloudNet Hurricane v3.3.0
-This addon is to the ScreamingBedWars Plugin made by ScreamingSandals, it's made to add CloudNet Support to it.
+This addon is to the ScreamingBedWars Plugin made by ScreamingSandals, to add CloudNet Support to it.
 
 
 ## Features:
-- Starts a new Server of the Task on game start
-- Change NPC's and Signs to Ingame
-- Fully configurable
+- Starts a new server of the task on game start
+- change NPC's and signs to "Ingame" state
+- fully configurable
 
 ## Credits
-Thanks to the [ScreamingSandals team](https://github.com/ScreamingSandals) for the great BW Plugin.
+Thanks to [ScreamingSandals](https://github.com/ScreamingSandals) for the great BW Plugin.
